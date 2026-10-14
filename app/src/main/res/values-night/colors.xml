@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Terracotta and sandstone palette, dark scheme -->
+    <color name="primary">#FFB59B</color>
+    <color name="on_primary">#561F0A</color>
+    <color name="primary_container">#72331A</color>
+    <color name="on_primary_container">#FFDBCF</color>
+    <color name="secondary">#E7BDB0</color>
+    <color name="on_secondary">#442A20</color>
+    <color name="secondary_container">#5D4036</color>
+    <color name="on_secondary_container">#FFDBCF</color>
+    <color name="tertiary">#D6C68D</color>
+    <color name="on_tertiary">#3A3005</color>
+    <color name="tertiary_container">#514619</color>
+    <color name="on_tertiary_container">#F3E2A7</color>
+    <color name="error">#FFB4AB</color>
+    <color name="on_error">#690005</color>
+    <color name="error_container">#93000A</color>
+    <color name="on_error_container">#FFDAD6</color>
+    <color name="surface">#1A110F</color>
+    <color name="on_surface">#F1DFD9</color>
+    <color name="surface_variant">#53433F</color>
+    <color name="on_surface_variant">#D8C2BB</color>
+    <color name="outline">#A08D87</color>
+    <color name="outline_variant">#53433F</color>
+    <color name="surface_container_lowest">#140C0A</color>
+    <color name="surface_container_low">#231917</color>
+    <color name="surface_container">#271D1B</color>
+    <color name="surface_container_high">#322825</color>
+    <color name="surface_container_highest">#3D3230</color>
+    <color name="inverse_surface">#F1DFD9</color>
+    <color name="inverse_on_surface">#392E2B</color>
+    <color name="inverse_primary">#8C3F22</color>
+
+    <color name="splash_background">#3B1A0E</color>
+</resources>

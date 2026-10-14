@@ -1,0 +1,159 @@
+<resources>
+    <string name="app_name">Virasat</string>
+    <string name="navigate_up">Back</string>
+    <string name="app_tagline">Explore India\'s heritage sites, plan your visits and keep notes along the way.</string>
+
+    <!-- Login -->
+    <string name="sign_in">Sign in</string>
+    <string name="create_account">Create account</string>
+    <string name="sign_in_subtitle">Welcome back. Sign in to continue.</string>
+    <string name="register_subtitle">Create a local account on this phone.</string>
+    <string name="switch_to_register">New here? Create an account</string>
+    <string name="switch_to_sign_in">Already have an account? Sign in</string>
+    <string name="hint_name">Full name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="remember_me">Keep me signed in</string>
+    <string name="error_name">Enter your name</string>
+    <string name="error_email">Enter a valid email address</string>
+    <string name="error_password_empty">Enter your password</string>
+    <string name="error_password_short">Use at least 6 characters</string>
+    <string name="error_no_account">No account on this phone yet. Create one first.</string>
+    <string name="login_failed_title">Sign in failed</string>
+    <string name="login_failed_message">The email or password is incorrect.\n\nAttempt %1$d of %2$d. After %2$d wrong attempts, sign in is locked for 30 seconds.</string>
+    <string name="login_locked_title">Sign in locked</string>
+    <string name="login_locked_message">You entered the wrong password %1$d times. The sign in button is disabled for 30 seconds.</string>
+    <string name="login_try_again_in">Try again in %1$ds</string>
+    <string name="replace_account_title">Replace account?</string>
+    <string name="replace_account_message">This phone already has an account for %1$s. Creating a new one replaces it. Your trips and notes stay on the phone.</string>
+    <string name="replace">Replace</string>
+    <string name="account_created">Account created</string>
+
+    <!-- Navigation -->
+    <string name="nav_explore">Explore</string>
+    <string name="nav_trips">Trips</string>
+    <string name="nav_profile">Profile</string>
+
+    <!-- Explore -->
+    <string name="greeting">Hello, %1$s</string>
+    <string name="explore_title">Discover India\'s heritage</string>
+    <string name="search_hint">Search by name, city or state</string>
+    <string name="filter_all">All</string>
+    <string name="filter_monument">Monuments</string>
+    <string name="filter_fort">Forts</string>
+    <string name="filter_temple">Temples</string>
+    <string name="filter_cave">Caves</string>
+    <string name="explore_empty">No sites match your search.</string>
+    <string name="fee_from">From %1$s</string>
+
+    <!-- Site detail -->
+    <string name="directions">Directions</string>
+    <string name="share">Share</string>
+    <string name="read_more">Read more</string>
+    <string name="about">About</string>
+    <string name="visiting_info">Visiting information</string>
+    <string name="label_built">Built</string>
+    <string name="label_timings">Timings</string>
+    <string name="label_closed">Closed on</string>
+    <string name="label_fee_indian">Entry fee, Indian citizen</string>
+    <string name="label_fee_foreign">Entry fee, foreign national</string>
+    <string name="open_all_days">Open all days</string>
+    <string name="plan_visit">Plan a visit</string>
+    <string name="add_notes">Add notes</string>
+    <string name="view_notes">View notes</string>
+    <string name="share_chooser">Share site</string>
+    <string name="no_app_found">No app found to open this</string>
+
+    <!-- Plan visit -->
+    <string name="edit_visit">Edit visit</string>
+    <string name="section_visitor">Visitor details</string>
+    <string name="section_ticket">Ticket type</string>
+    <string name="section_extras">Extras</string>
+    <string name="hint_visit_date">Visit date</string>
+    <string name="hint_visitors">Number of visitors</string>
+    <string name="ticket_indian">Indian citizen, %1$s per person</string>
+    <string name="ticket_foreign">Foreign national, %1$s per person</string>
+    <string name="extra_guide">Licensed guide, %1$s per group</string>
+    <string name="extra_audio">Audio guide, %1$s per person</string>
+    <string name="review_visit">Review visit</string>
+    <string name="error_date">Pick a date</string>
+    <string name="error_closed_day">%1$s is closed on %2$s. Pick another day.</string>
+    <string name="error_visitors">Enter how many people are visiting</string>
+    <string name="error_visitors_max">Group bookings are limited to 50 people</string>
+    <string name="error_divide_zero">Cannot split the cost between 0 visitors</string>
+
+    <!-- Summary -->
+    <string name="summary_title">Review visit</string>
+    <string name="section_details">Details</string>
+    <string name="section_cost">Cost</string>
+    <string name="label_visitor">Visitor</string>
+    <string name="label_date">Date</string>
+    <string name="label_visitors">Visitors</string>
+    <string name="label_ticket">Ticket</string>
+    <string name="label_guide">Guide</string>
+    <string name="label_audio">Audio guide</string>
+    <string name="label_tickets_calc">Tickets (%1$d x %2$s)</string>
+    <string name="label_total">Total</string>
+    <string name="label_per_person">Per person</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="ticket_type_indian">Indian citizen</string>
+    <string name="ticket_type_foreign">Foreign national</string>
+    <string name="rate_note">Indicative rates: 1 USD = %1$s, 1 EUR = %2$s. Tickets are paid in rupees at the site.</string>
+    <string name="save_trip">Save trip</string>
+    <string name="update_trip">Update trip</string>
+    <string name="trip_saved">Trip saved</string>
+    <string name="trip_updated">Trip updated</string>
+
+    <!-- Trips -->
+    <string name="trips_title">My trips</string>
+    <string name="trips_count">%1$d planned, %2$d visited</string>
+    <string name="filter_upcoming">Planned</string>
+    <string name="filter_visited">Visited</string>
+    <string name="trips_empty_title">No trips yet</string>
+    <string name="trips_empty_body">Pick a site in Explore and plan your first visit.</string>
+    <string name="trip_meta">%1$d visitors, %2$s</string>
+    <string name="trip_meta_one">1 visitor, %1$s</string>
+    <string name="status_planned">Planned</string>
+    <string name="status_visited">Visited</string>
+    <string name="edit">Edit</string>
+    <string name="mark_visited">Mark as visited</string>
+    <string name="delete">Delete</string>
+    <string name="trip_deleted">Trip deleted</string>
+    <string name="undo">Undo</string>
+    <string name="rate_title">How was your visit?</string>
+    <string name="rate_message">Rate %1$s</string>
+    <string name="save">Save</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Notes -->
+    <string name="notes_title">Notes</string>
+    <string name="notes_hint">What do you want to remember? Best time to go, what to see, how to get there.</string>
+    <string name="notes_last_saved">Last saved %1$s</string>
+    <string name="notes_not_saved">Not saved yet</string>
+    <string name="notes_saved">Notes saved</string>
+    <string name="notes_deleted">Notes deleted</string>
+    <string name="notes_empty">Write something before saving</string>
+    <string name="notes_error">Could not access the notes file</string>
+    <string name="delete_notes_title">Delete notes?</string>
+    <string name="delete_notes_message">The notes file for %1$s will be removed from this phone.</string>
+    <string name="unsaved_title">Unsaved changes</string>
+    <string name="unsaved_message">Save your notes before leaving?</string>
+    <string name="discard">Discard</string>
+
+    <!-- Profile -->
+    <string name="stat_planned">Planned</string>
+    <string name="stat_visited">Visited</string>
+    <string name="stat_notes">Notes</string>
+    <string name="section_appearance">Appearance</string>
+    <string name="theme_system">System</string>
+    <string name="theme_light">Light</string>
+    <string name="theme_dark">Dark</string>
+    <string name="section_data">Your data</string>
+    <string name="export_trips">Export trips as text file</string>
+    <string name="export_empty">No trips to export yet</string>
+    <string name="export_chooser">Export trips</string>
+    <string name="sign_out">Sign out</string>
+    <string name="sign_out_message">You will need your password to sign in again.</string>
+    <string name="version">Version %1$s</string>
+</resources>

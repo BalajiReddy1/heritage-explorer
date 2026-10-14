@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Darkens the top of the detail photo so the back button stays readable on bright skies -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <gradient
+        android:angle="270"
+        android:endColor="@android:color/transparent"
+        android:startColor="#66000000" />
+</shape>
